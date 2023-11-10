@@ -6,10 +6,10 @@ let sendMsgBtn = document.querySelector("#btn");
 let result = document.querySelector("#result");
 
 let requestObj = {
-    APPID: '',
-    APISecret: '',
-    APIKey: '',
-    Uid: "red润",
+    APPID: '074221c8',
+    APISecret: 'YTExZGE0YTJkNDc4NTBlOTVjZDZkMjg1',
+    APIKey: 'cb152de61bba141c41d10de35605c6cd',
+    Uid: "testAPI",
     sparkResult: ''
 }
 // 点击发送信息按钮
